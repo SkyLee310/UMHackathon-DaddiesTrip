@@ -56,7 +56,7 @@
 
 Built for the **UM Hackathon 2026**, the platform eliminates the need to juggle multiple apps for itinerary drafting, flight bookings, map routing, and manual spreadsheet calculations for cost splitting.
 
-Our Pitching Video Link: https://drive.google.com/file/d/12WuleL763Vm7ihAdAy4SwdbWTUnHG6j3/view?usp=drive_link
+Our Pitching Video Link: https://drive.google.com/file/d/1omDBt6i653HnB2aIChj4UQm0B-6a55K0/view?usp=sharing
 
 ## Problem Statement
 
