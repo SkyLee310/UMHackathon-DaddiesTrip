@@ -20,15 +20,15 @@
 <br />
 
 ## Table of Contents
-- [Project Overview](#-project-overview)
-- [Key Features](#-key-features)
-- [System Architecture](#-system-architecture)
-- [Local Development Setup](#-local-development-setup)
-- [Deployment](#-deployment)
-  - [Backend on Railway](#-backend-on-railway-recommended)
-  - [Frontend on Vercel](#-frontend-on-vercel)
-- [API Documentation](#-api-documentation)
-- [Testing & QA](#-testing--qa)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [System Architecture](#system-architecture)
+- [Local Development Setup](#local-development-setup)
+- [Deployment](#deployment)
+  - [Backend on Railway](#backend-on-railway-recommended)
+  - [Frontend on Vercel](#frontend-on-vercel)
+- [API Documentation](#api-documentation)
+- [Testing & QA](#testing--qa)
 
 ---
 
